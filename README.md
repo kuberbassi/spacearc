@@ -8,7 +8,7 @@ A modern, fully responsive **React SPA** for [SPACE India](https://space-india.c
 [![React](https://img.shields.io/badge/React-19.x-61DAFB?logo=react&logoColor=black)](https://react.dev)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![Three.js](https://img.shields.io/badge/Three.js-r170-black?logo=threedotjs)](https://threejs.org)
-[![Deployed on Vercel](https://img.shields.io/badge/Deploy-Vercel-000?logo=vercel)](https://vercel.com)
+[![Deployed on Vercel](https://img.shields.io/badge/Deploy-Vercel-000?logo=vercel)](https://spacearc-one.vercel.app)
 
 ---
 
